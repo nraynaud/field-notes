@@ -1,6 +1,7 @@
 Field Notes
 ===========
 Some random notes that could be useful to others
+If you want to tell me something, use the project issues.
 
 
 OnShape
