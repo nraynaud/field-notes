@@ -42,3 +42,8 @@ opening the valve to release the vacuum.
 vaccum in a melted state.
 * Dan Gelbart has a very interesting vacuum suction idea [here](https://www.youtube.com/watch?v=xMP_AfiNlX4) vacuuming 
 the air from the mold first, then using the void to pull the molding material in the mold.
+
+Mechanics
+=========
+
+* for shifting gears there are 2 keywords: sliding mesh transmittion and constant mesh transmittion
